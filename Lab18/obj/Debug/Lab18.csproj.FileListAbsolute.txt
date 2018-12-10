@@ -1,0 +1,7 @@
+C:\Users\PC1\source\repos\LinkedListLab\Lab18\obj\Debug\Lab18.csprojAssemblyReference.cache
+C:\Users\PC1\source\repos\LinkedListLab\Lab18\obj\Debug\Lab18.csproj.CoreCompileInputs.cache
+C:\Users\PC1\source\repos\LinkedListLab\Lab18\bin\Debug\Lab18.exe.config
+C:\Users\PC1\source\repos\LinkedListLab\Lab18\bin\Debug\Lab18.exe
+C:\Users\PC1\source\repos\LinkedListLab\Lab18\bin\Debug\Lab18.pdb
+C:\Users\PC1\source\repos\LinkedListLab\Lab18\obj\Debug\Lab18.exe
+C:\Users\PC1\source\repos\LinkedListLab\Lab18\obj\Debug\Lab18.pdb
